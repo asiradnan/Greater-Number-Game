@@ -3,19 +3,19 @@
     <dimen name="horizontal_margin">24dp</dimen>
     <dimen name="title_margin_top">32dp</dimen>
     <dimen name="title_text_size">22sp</dimen>
-    <dimen name="score_margin_top">60dp</dimen>
+    <dimen name="score_margin_top">40dp</dimen>
     <dimen name="score_text_size">14sp</dimen>
     <dimen name="number_card_height">100dp</dimen>
     <dimen name="card_corner_radius">10dp</dimen>
     <dimen name="card_spacing">6dp</dimen>
     <dimen name="number_text_size">40sp</dimen>
-    <dimen name="buttons_margin_top">70dp</dimen>
+    <dimen name="buttons_margin_top">60dp</dimen>
     <dimen name="button_height">48dp</dimen>
     <dimen name="button_text_size">14sp</dimen>
     <dimen name="button_spacing">6dp</dimen>
     <dimen name="button_corner_radius">20dp</dimen>
     <dimen name="reset_button_size">48dp</dimen>
-    <dimen name="reset_button_margin_top">56dp</dimen>
+    <dimen name="reset_button_margin_top">4dp</dimen>
     <dimen name="reset_button_corner_radius">24dp</dimen>
     <dimen name="reset_icon_size">20dp</dimen>
 </resources>
