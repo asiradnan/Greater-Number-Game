@@ -26,13 +26,19 @@ A simple and fun Android game where players guess which of the two numbers is gr
 4. Use the reset button to start over at any time.
 
 ## Installation ⚙️
-1. Clone this repository:
+You can get the app in two ways:
+
+1. Download from Releases:
+   - Go to the [Releases](https://github.com/asiradnan/Greater-Number-Game/releases) page
+   - Download the latest APK file
+   - Install directly on your Android device
+
+2. Build from source:
    ```bash
    git clone https://github.com/asiradnan/Greater-Number-Game.git
-   ```
-   2. Open the project in Android Studio.
-
-3. Build and run the app on an emulator or physical device.
+    ```
+   - Open the project in Android Studio.
+    - Build and run the app on an emulator or physical device.
 ## Contributing 🤝
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 ## License 📄
